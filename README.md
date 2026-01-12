@@ -1,5 +1,5 @@
 <p align="center">
-  this text is a cool
+  "How was the weather beyond the forest? Was it raining or was it clear?"
 </p>
 
 <p align="center">
@@ -14,13 +14,22 @@
 <details>
   <summary>more</summary>
 
-  <br />
+  <table width="2000">
+    <tr>
+      <td width="2000">
+        <img align="center" width="100%" alt="metrics" src="/bigass.svg">
+      </td>
+    </tr>
+  </table>
 
-  <p align="center">
-    <img width="100%" src="/bigass.svg" />
-  </p>
-
-  <p align="center">
-    <img width="100%" src="/bottom.svg" />
-  </p>
+  <table>
+    <tr>
+      <td width="55%">
+        <img width="100%" alt="metrics" src="/bottom.svg">
+      </td>
+      <td width="45%">
+        <img width="100%" alt="gif" src="/subaru-subaru-stairs.gif">
+      </td>
+    </tr>
+  </table>
 </details>
