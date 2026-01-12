@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@a8b7f7fe-40bc-4779-922e-7abf220e9183">
-    <img alt="wakatime" src="https://wakatime.com/badge/user/a8b7f7fe-40bc-4779-922e-7abf220e9183.svg?style=flat" />
-  </a>
   <a href="https://discord.com/users/1241899430689374398">
     <img alt="discord" src="https://lanyard.cnrad.dev/api/1241899430689374398?hideTimestamp=true&hideDiscrim=true&hideBadges=true&hideClan=true&borderRadius=0&bg=6b7280" />
   </a>
