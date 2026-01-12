@@ -39,7 +39,7 @@ jobs:
 
           # AniList (optional: set your AniList username or remove this whole block)
           plugin_anilist: yes
-          plugin_anilist_user: YOUR_ANILIST_USERNAME
+          plugin_anilist_user: ihamiru
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: characters, watching, reading, favorites
           plugin_anilist_limit: 2
