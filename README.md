@@ -1,48 +1,26 @@
 <p align="center">
-i like pizza, i like buger, i like chikn nunget
+  this text is a cool
 </p>
 
 <p align="center">
-  <a href="https://github.com/ihamiru">
-    <img alt="profile views" src="https://komarev.com/ghpvc/?username=ihamiru&style=flat&color=grey" />
+  <a href="https://wakatime.com/@a8b7f7fe-40bc-4779-922e-7abf220e9183">
+    <img src="https://wakatime.com/badge/user/a8b7f7fe-40bc-4779-922e-7abf220e9183.svg?style=flat" />
   </a>
-  <a href="https://github.com/ihamiru?tab=followers">
-    <img alt="followers" src="https://img.shields.io/github/followers/ihamiru?label=followers&style=flat&color=grey" />
-  </a>
-  <a href="https://github.com/ihamiru?tab=repositories">
-    <img alt="repos" src="https://img.shields.io/badge/repos-view-grey?style=flat" />
-  </a>
-  <a href="https://github.com/ihamiru?tab=stars">
-    <img alt="stars" src="https://img.shields.io/github/stars/ihamiru?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=grey" />
+  <a href="https://discord.com/users/1241899430689374398">
+    <img src="https://img.shields.io/endpoint?url=https://lanyard.cnrad.dev/api/1241899430689374398&style=flat&label=discord&color=6b7280" />
   </a>
 </p>
 
 <details>
   <summary>more</summary>
 
-  <table width="2000">
-    <tr>
-      <td width="2000">
-        <img align="center" width="100%" alt="🦑" src="/bigass.svg">
-      </td>
-    </tr>
-  </table>
+  <br />
 
-  <img align="left" width="50%" alt="🦑" src="/anilist.svg">
-  <img align="right" width="45%" alt="🦑" src="/pagespeed.svg">
+  <p align="center">
+    <img width="100%" src="/bigass.svg" />
+  </p>
 
-  <img align="left" width="45%" alt="🦑" src="/isocalendar.svg">
-  <img align="right" width="45%" alt="🦑" src="/lines.svg">
-  <img align="right" width="45%" alt="🦑" src="/icons.svg">
-
-  <img align="left" width="50%" alt="🦑" src="/achievements.svg">
-  <img align="right" width="45%" alt="🦑" src="/stars.svg"> -->
-
-  <table>
-    <tr>
-      <td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
-      <td><img align="" width="" height="" alt="🦑" src="https://github.com/user-attachments/assets/uhhhidkyet"></td>
-    </tr>
-  </table>
-
+  <p align="center">
+    <img width="100%" src="/bottom.svg" />
+  </p>
 </details>
