@@ -1,5 +1,5 @@
 <p align="center">
-  "How was the weather beyond the forest? Was it raining or was it clear?"
+  "There was no other way! The world had to be fixed!"
 </p>
 
 <p align="center">
